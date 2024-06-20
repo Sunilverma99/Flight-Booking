@@ -64,7 +64,7 @@ The Flight Booking App is designed to provide a seamless experience for booking 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/flight-booking-app.git
+    https://github.com/Sunilverma99/Flight-Booking.git
     cd flight-booking-app
     ```
 
